@@ -3,7 +3,7 @@
      I've already learnt some android stuff and cybersecurity but any knowledge is welcome.
 - 🌱 I’m currently studying a software engineer degree in Seville,Spain.
 - 💞️ I’m looking to collaborate on any project, but I can't fully commit to this project because I need to study for university :/
-- 📫 You can reach me in juansmjeje@gmail.com or twitter @juansm001
+- 📫 You can reach me in juanschezmor@gmail.com or twitter @_juansm01
 
 <!---
 juansm01/juansm01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
