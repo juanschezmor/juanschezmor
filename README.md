@@ -1,3 +1,4 @@
+[![An image of @juansm01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/juansm01)](https://holopin.io/@juansm01)
 ### Hello world! 👋
 
 #### About Me
