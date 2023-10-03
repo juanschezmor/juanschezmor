@@ -1,4 +1,4 @@
-[![An image of @juansm01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/juansm01)](https://holopin.io/@juansm01)
+
 ### Hello world! 👋
 
 #### About Me
@@ -19,3 +19,4 @@ Join me on this journey of continuous learning and project exploration!
 juansm01/juansm01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![An image of @juansm01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/juansm01)](https://holopin.io/@juansm01)
